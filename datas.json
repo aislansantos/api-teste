@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Aislan",
+        "endereco": "Rua Nicilau Sério",
+        "numero": 159,
+        "bairro": "Vila São Geraldo"
+    },
+    {
+        "nome": "Debora",
+        "endereco": "Rua Emilia de Alvarenga Mendes",
+        "numero": 155,
+        "bairro": "Residencial Belo Horizonte"
+    },
+    {
+        "nome": "Augusto",
+        "endereco": "Rua Emilia de Alvarenga Mendes",
+        "numero": 155,
+        "bairro": "Residencial Belo Horizonte"
+    }
+]
